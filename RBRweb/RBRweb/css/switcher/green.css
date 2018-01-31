@@ -1,0 +1,252 @@
+/*Background Color*/
+
+.main-background-color,
+.page-header.style-2 .page-button-link a:hover,
+.main-nav li li:hover > a:after,
+.main-nav ul.menu > li > a:before,
+.header-v2 .menu-item-button-link,
+.numeric-navigation .page-numbers:hover,.numeric-navigation .page-numbers.current,
+.project-nav-ajax .numeric-navigation .page-numbers.next:hover,.project-nav-ajax .numeric-navigation .page-numbers.next:focus,
+.primary-mobile-nav .menu-item-button-link a,
+.fh-btn,
+.fh-btn:hover,.fh-btn:focus,
+.fh-btn-2,
+.fh-btn-2:hover,.fh-btn-2:focus,
+.post-author .box-title:after,
+.blog-wrapper .entry-thumbnail a i,
+.blog-classic .blog-wrapper .entry-footer:before,
+.socials-share a:hover,
+.service .service-thumbnail a:before,
+.single-service blockquote:before,
+.single-project .single-project-title:before,
+.all-project ul.filter li:after,
+.all-project ul.filter li.active:after,.all-project ul.filter li:hover:after,
+.project-inner .project-summary,
+.project-inner .project-icon,
+.comments-title:after,.comment-reply-title:after,
+.comment-respond .form-submit .submit,
+.comment-respond .form-submit .submit:hover,.comment-respond .form-submit .submit:focus,
+.widget .widget-title:after,
+.woocommerce .added_to_cart,.woocommerce button.button,.woocommerce a.button,.woocommerce input.button,.woocommerce #respond input#submit,
+.woocommerce .added_to_cart:hover,.woocommerce button.button:hover,.woocommerce a.button:hover,.woocommerce input.button:hover,.woocommerce #respond input#submit:hover,.woocommerce .added_to_cart:focus,.woocommerce button.button:focus,.woocommerce a.button:focus,.woocommerce input.button:focus,.woocommerce #respond input#submit:focus,
+.woocommerce .added_to_cart.alt,.woocommerce button.button.alt,.woocommerce a.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt,
+.woocommerce .added_to_cart.alt:hover,.woocommerce button.button.alt:hover,.woocommerce a.button.alt:hover,.woocommerce input.button.alt:hover,.woocommerce #respond input#submit.alt:hover,.woocommerce .added_to_cart.alt:focus,.woocommerce button.button.alt:focus,.woocommerce a.button.alt:focus,.woocommerce input.button.alt:focus,.woocommerce #respond input#submit.alt:focus,
+.woocommerce .shop-toolbar h2:after,.woocommerce .woocommerce-billing-fields h3:after,.woocommerce h3 label:after,.woocommerce h3.payment_heading:after,.woocommerce #order_review_heading:after,.woocommerce .cart_totals h2:after,.woocommerce .cross-sells h2:after,.woocommerce .col2-set h2:after,.woocommerce #order_review h3:after,
+.woocommerce #reviews #review_form .comment-form .form-submit input.submit,
+.woocommerce .related.products h2:after,
+.woocommerce .related.products .owl-controls .owl-buttons div:hover,
+.woocommerce form.checkout #payment div.place-order .button,
+.woocommerce .widget_price_filter .price_slider .ui-slider-handle,
+.woocommerce nav.woocommerce-pagination ul li .page-numbers:hover,.woocommerce nav.woocommerce-pagination ul li .page-numbers.current,
+.woocommerce-account form.login .button,.woocommerce-account form.register .button,
+.woocommerce-account form.login .button:hover,.woocommerce-account form.register .button:hover,.woocommerce-account form.login .button:focus,.woocommerce-account form.register .button:focus,
+.woocommerce-cart table.cart td.actions .coupon .button,
+.woocommerce-cart table.cart td.actions .coupon .button:hover,.woocommerce-cart table.cart td.actions .coupon .button:focus,
+.woocommerce-cart .wc-proceed-to-checkout a.button,
+.woocommerce-cart .wc-proceed-to-checkout a.button:hover,.woocommerce-cart .wc-proceed-to-checkout a.button:focus,
+.footer-widgets .fh-form-field .subscribe:after,
+div.fh-latest-project .item-project .project-summary,
+.owl-controls .owl-buttons div:hover,
+.main-nav div.menu > ul > li > a:before {background-color: #4fa226}
+
+.tp-caption.fh_button:hover, .fh_button:hover {background-color: #4fa226 !important;}
+
+/*Border Color*/
+
+.page-header.style-2 .page-button-link a:hover,
+.main-nav li li:hover > a:before,
+.project-nav-ajax .numeric-navigation .page-numbers.next:hover,.project-nav-ajax .numeric-navigation .page-numbers.next:focus,
+.service:hover .service-inner,
+.single-project .entry-thumbnail .owl-controls .owl-pagination .owl-page:hover span,.single-project .entry-thumbnail .owl-controls .owl-pagination .owl-page.active span,
+.service-sidebar .services-menu-widget li:hover a:after,.service-sidebar .services-menu-widget li.current-menu-item a:after,
+.woocommerce .related.products .owl-controls .owl-buttons div:hover,
+.woocommerce nav.woocommerce-pagination ul li .page-numbers:hover,.woocommerce nav.woocommerce-pagination ul li .page-numbers.current,
+.woocommerce ul.products li.product .add_to_cart_button, .woocommerce ul.products li.product .added_to_cart,
+.backtotop {border-color: #4fa226}
+
+.tp-caption.fh_button:hover, .fh_button:hover,
+.factoryplus-arrow:hover {border-color: #4fa226 !important;}
+
+/*Border Bottom*/
+
+.blog-grid .blog-wrapper:hover .entry-footer{border-color: #4fa226}
+
+/*Border Left*/
+
+blockquote {border-color: #4fa226}
+
+/*Border Top*/
+
+.main-nav ul ul ul {border-color: #4fa226}
+
+/*Color*/
+
+.socials a:hover,
+.main-color,
+.topbar .topbar-left i,
+.topbar .topbar-socials li:hover a,
+.page-header.style-2 .subtitle,
+.site-extra-text .item-text a:hover,
+.site-extra-text .item-2 i,
+.site-extra-text .social a:hover,
+.main-nav a:hover,
+.main-nav li li:hover.menu-item-has-children:after,
+.main-nav li li:hover > a,
+.main-nav ul.menu > li.current-menu-item > a,.main-nav ul.menu > li:hover > a,
+.main-nav ul.menu > li.current-menu-item > a:after,.main-nav ul.menu > li:hover > a:after,
+.header-v1 .menu-item-text i,
+.post-navigation a:hover,
+.portfolio-navigation .nav-previous a:hover,.portfolio-navigation .nav-next a:hover,
+.project-nav-ajax .numeric-navigation .page-numbers.next,
+.project-nav-ajax .numeric-navigation .page-numbers.next span,
+.primary-mobile-nav ul.menu li.current-menu-item > a,
+.entry-meta a:hover,
+.entry-meta .meta.views:hover,
+.entry-meta .fa,
+.blog-grid .blog-wrapper.col-4 .posted-on a,
+.single-service cite span,
+.project cite span,
+.metas i,
+.backtotop,
+.backtotop .fa,
+.backtotop:hover,
+.backtotop:hover .fa,
+.comment .comment-reply-link:hover,
+.widget_recent_comments li:hover > a,.widget_rss li:hover > a,
+.widget_categories li:hover,.widget_pages li:hover,.widget_archive li:hover,.widget_nav_menu li:hover,.widget_recent_entries li:hover,.widget_meta li:hover,ul.service-menu li:hover,
+.widget_categories li:hover:before,.widget_pages li:hover:before,.widget_archive li:hover:before,.widget_nav_menu li:hover:before,.widget_recent_entries li:hover:before,.widget_meta li:hover:before,ul.service-menu li:hover:before,
+.widget_categories li:hover > a,.widget_pages li:hover > a,.widget_archive li:hover > a,.widget_nav_menu li:hover > a,.widget_recent_entries li:hover > a,.widget_meta li:hover > a,ul.service-menu li:hover > a,
+.widget_categories li:hover > a:before,.widget_pages li:hover > a:before,.widget_archive li:hover > a:before,.widget_nav_menu li:hover > a:before,.widget_recent_entries li:hover > a:before,.widget_meta li:hover > a:before,ul.service-menu li:hover > a:before,
+.widget-about a:hover,
+.related-post .post-text .post-date i,.popular-post .post-text .post-date i,
+.service-sidebar .services-menu-widget li:hover a,.service-sidebar .services-menu-widget li.current-menu-item a,
+.service-sidebar .side-contact .fa,
+.woocommerce .star-rating span:before,
+.woocommerce div.product div.summary p.price > span,
+.woocommerce div.product div.summary p.price ins,
+.woocommerce #reviews #review_form .comment-form .comment-form-rating .stars a,
+.woocommerce .quantity .increase:hover,.woocommerce .quantity .decrease:hover,
+.woocommerce ul.products li.product .price > span,
+.woocommerce ul.products li.product .price ins,
+.woocommerce form.checkout table.shop_table td span.amount,
+.woocommerce table.shop_table td.product-subtotal,
+.woocommerce .widget_product_categories li:hover,
+.woocommerce .widget_product_categories li:hover a,
+.woocommerce .widget_product_categories li:hover a:before,
+.woocommerce ul.product_list_widget li > span.amount,
+.woocommerce ul.product_list_widget li ins,
+.woocommerce-wishlist table.shop_table tr td.product-stock-status span.wishlist-in-stock,
+.woocommerce-wishlist table.shop_table tbody .product-price > span,
+.woocommerce-wishlist table.shop_table tbody .product-price ins,
+.woocommerce-account form.login a.lost-password,.woocommerce-account form.register a.lost-password,
+.woocommerce-account .woocommerce-MyAccount-navigation ul li:hover a,.woocommerce-account .woocommerce-MyAccount-navigation ul li.is-active a,
+.woocommerce-cart a.remove:hover i,
+.site-footer .footer-copyright a,
+.footer-widgets .widget-title,
+.footer-widgets .menu li a:before,
+.footer-widgets .menu li:hover a,
+.footer-widgets .footer-widget-socials li:hover a,
+.latest-post .post-date,
+.footer-social a:hover,
+.fh-team div.team-member ul li a,
+.woocommerce ul.products li.product .add_to_cart_button, .woocommerce ul.products li.product .added_to_cart,
+.blog-wrapper.sticky .entry-title:before,
+.header-v4 .main-nav ul.menu > li:hover > a,
+.header-v4 .main-nav ul.menu > li:hover > a:after,
+.main-nav div.menu > ul > li.current_page_item > a,
+.main-nav div.menu > ul > li:hover > a,
+.main-nav div.menu > ul > li.current_page_item > a:after,
+.main-nav div.menu > ul > li:hover > a:after,
+.main-nav ul.menu > li.current-menu-parent > a:after,
+.main-nav ul.menu > li.current-menu-parent > a,
+.header-transparent .main-nav ul.menu > li:hover > a,
+.header-transparent .main-nav ul.menu > li:hover > a:after {color: #4fa226}
+
+.tp-caption.fp_content_layer,
+.fp_content_layer,
+.factoryplus-arrow:hover .fa {color: #4fa226 !important;}
+
+
+/*Shortcode*/
+
+
+/*Background Color: */
+
+.fh-btn,
+.fh-btn:hover,.fh-btn:focus,
+.fh-btn-2,
+.fh-btn-2:hover,.fh-btn-2:focus,
+.main-background-color,
+.fh-section-title h2:before,
+.fh-contact-box .contact-box-title,
+.fh-latest-project ul.filter li:after,
+.fh-latest-project ul.filter li.active:after,.fh-latest-project ul.filter li:hover:after,
+.fh-latest-project.light-version ul.filter li:after,
+.fh-latest-project.light-version ul.filter li.active:after,.fh-latest-project.light-version ul.filter li:hover:after,
+.fh-project-carousel .owl-controls .owl-buttons div:hover,
+.fh-latest-post .item-latest-post .entry-thumbnail a i,
+.fh-icon-box:hover .fh-icon,
+.fh-icon-box-4 h4:after,
+.fh-icon-box-5 .fh-icon,
+.fh-icon-box-6 h4:after,
+.fh-testimonials-3 .owl-pagination .owl-page.active span,.fh-testimonials-3 .owl-pagination .owl-page:hover span,
+.fh-price-table.promoted .table-header,.fh-price-table:hover .table-header,
+.fh-price-table.promoted .table-content a,.fh-price-table:hover .table-content a,
+.fh-team.style-2:hover .socials:before{background-color: #4fa226}
+
+.fh-testimonials .owl-pagination .owl-page.active span, .fh-testimonials .owl-pagination .owl-page:hover span,
+.fh-latest-post .owl-pagination .owl-page.active span, .fh-latest-post .owl-pagination .owl-page:hover span,
+.fh-service .owl-pagination .owl-page.active span, .fh-service .owl-pagination .owl-page:hover span,
+.fh-testimonials-2 .owl-pagination .owl-page.active span, .fh-testimonials-2 .owl-pagination .owl-page:hover span { background-color: #4fa226 !important; }
+
+
+/*Border Color: */
+
+.fh-latest-post .item-latest-post:hover .line,
+.fh-icon-box:hover,
+.fh-testimonials .testi-content:hover,
+.fh-testimonials.style-2 .testi-content:hover,
+.fh-testimonials-2 .owl-pagination .owl-page.active span,.fh-testimonials-2 .owl-pagination .owl-page:hover span,
+.fh-testimonials-3 .owl-pagination .owl-page span,
+.fh-price-table.promoted .table-content,.fh-price-table:hover .table-content,
+.fh-price-table.promoted .table-content a,.fh-price-table:hover .table-content a,
+.fh-service .service-content:hover,
+.service-tabs .vc_tta-tabs-list li:hover a,.service-tabs .vc_tta-tabs-list li.vc_active a,
+.fh-testimonials .owl-pagination .owl-page span,
+.fh-latest-post .owl-pagination .owl-page span,
+.fh-service .owl-pagination .owl-page span,
+.service-tabs .vc_tta-tabs-list li:hover a, .service-tabs .vc_tta-tabs-list li.vc_active a,
+.fh-icon-box-6 ul li:before {border-color: #4fa226}
+
+/* Border Color */
+.woocommerce span.ribbons:before {border-top-color: #4fa226}
+.woocommerce span.ribbons:before {border-left-color: #4fa226}
+
+/*Color: */
+
+.main-color,
+.fh-project-carousel .link,
+.fh-latest-post .item-latest-post .entry-meta a,
+.fh-icon-box .fh-icon,
+.fh-icon-box-2 .sub-title,
+.fh-icon-box-2 .fh-icon,
+.fh-icon-box-3 .fh-icon,
+.fh-icon-box-4 .fh-icon,
+.fh-icon-box-4 .icon-box-link,
+.fh-icon-box-6 .fh-icon,
+.fh-counter .fh-icon,
+.fh-counter.style-2 .fh-icon,
+.fh-testimonials .testi-content:hover i,
+.fh-testimonials .testi-job,
+.fh-testimonials-2 .testi-job,
+.fh-testimonials-3 .testi-job,
+.fh-testimonials-3 .testi-star .fa,
+.fh-price-table .table-content a,
+.fh-service-list ul li i,
+.fh-team ul li:hover a,
+.fh-team .job,
+.mejs-container .mejs-controls .mejs-time span{color: #4fa226}
+
+.about-btn a,
+.service-tabs .vc_tta-tabs-list li:hover a, .service-tabs .vc_tta-tabs-list li.vc_active a,
+.fh-accordion.style-2.vc_tta-accordion .vc_tta-panel-title a:hover { color: #4fa226 !important; }
