@@ -61,7 +61,7 @@ Media Queries
     }
     .hide-topbar-mobile .topbar,
     .main-nav .extra-menu-item {
-        display: none;
+        display: block;
     }
     .header-v3 .site-header,
     .home-header-v3 .site-header {
@@ -69,6 +69,7 @@ Media Queries
         -ms-transform: translateY(0);
         transform: translateY(0);
         background-color: #fff;
+        background-color:rgba(255, 255, 255, 0.50);    
         position: static;
     }
     .header-v3 .page-header .header-title,

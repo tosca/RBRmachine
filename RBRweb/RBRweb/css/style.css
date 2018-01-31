@@ -289,7 +289,7 @@ body {
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
-    background: #ddd;
+    background: #ccc;
     word-wrap: break-word;
     overflow-x: hidden;
 }
@@ -1723,7 +1723,7 @@ div.aligncenter,
 
 .header-v3 .topbar,
 .home-header-v3 .topbar {
-    padding-bottom: 44px;
+    padding-bottom: 0px;
     border-bottom: 3px solid #f71414;
 }
 
@@ -1741,8 +1741,8 @@ div.aligncenter,
 
 .header-v3 .header-main,
 .home-header-v3 .header-main {
-    padding: 22px 30px 23px 30px;
-    background-color: #fff;
+    padding: 17px;
+    background-color: none;
 }
 
 .header-v3 .page-header .header-title,
@@ -5250,6 +5250,7 @@ ul.service-menu .children li:last-child {
 
 .flag img {
     height:40px;
+    padding: 5px;
 }
 .widget-about a {
     font-size: 14px;
