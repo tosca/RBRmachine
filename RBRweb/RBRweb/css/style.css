@@ -1741,16 +1741,14 @@ div.aligncenter,
 
 .header-v3 .header-main,
 .home-header-v3 .header-main {
-    padding: 7px;
-    margin:40px;
-    background-color: rgba(255, 255, 255, 0.45)
+    padding: 22px 30px 23px 30px;
+    background-color: #fff;
 }
 
 .header-v3 .page-header .header-title,
 .home-header-v3 .page-header .header-title {
-    padding-top: 90px;
+    padding-top: 154px;
 }
-
 .header-v4 .site-header,
 .home-header-v4 .site-header {
     padding-top: 35px;
