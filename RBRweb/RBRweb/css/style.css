@@ -1741,8 +1741,9 @@ div.aligncenter,
 
 .header-v3 .header-main,
 .home-header-v3 .header-main {
-    padding: 17px;
-    background-color: none;
+    padding: 7px;
+    margin:40px;
+    background-color: rgba(255, 255, 255, 0.45)
 }
 
 .header-v3 .page-header .header-title,
