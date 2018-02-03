@@ -306,13 +306,11 @@
     <Content Include="images\projects\project-3-8.jpg" />
     <Content Include="images\projects\project-3-9.jpg" />
     <Content Include="images\rbr-logo-01.png" />
-    <Content Include="images\rbr\1920x270.jpg" />
-    <Content Include="images\rbr\1920x340.jpg" />
+    <Content Include="images\rbr\rbrsold-01.jpg" />
     <Content Include="images\rbr\custom-01.jpg" />
     <Content Include="images\rbr\custom-02.jpg" />
     <Content Include="images\rbr\custom-03.jpg" />
     <Content Include="images\rbr\flag-italy.jpg" />
-    <Content Include="images\rbr\flag-japan-01.jpg" />
     <Content Include="images\rbr\flag-japan.jpg" />
     <Content Include="images\rbr\flag-usa.jpg" />
     <Content Include="images\resources\who-we-are.jpg" />
