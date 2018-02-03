@@ -1455,7 +1455,7 @@ div.aligncenter,
 
 .page-header .header-title.blog-title h1 {
     font-size: 36px;
-    font-weight: 400;
+  /*  font-weight: 400;*/
     text-transform: capitalize;
 }
 
@@ -5248,7 +5248,10 @@ ul.service-menu .children li:last-child {
 .widget-about img {
     margin-bottom: 25px;
 }
-
+.clogo img{
+    height:50px;
+    padding:5px;                                 
+}
 .flag img {
     height:40px;
     padding: 5px;
