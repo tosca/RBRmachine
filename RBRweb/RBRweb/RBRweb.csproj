@@ -306,6 +306,7 @@
     <Content Include="images\rbr-logo-01.png" />
     <Content Include="images\rbr\fryer-logo.png" />
     <Content Include="images\rbr\mcm-logo.png" />
+    <Content Include="images\rbr\sold-03.jpg" />
     <Content Include="images\rbr\rbrsold-01.jpg" />
     <Content Include="images\rbr\custom-01.jpg" />
     <Content Include="images\rbr\custom-02.jpg" />
@@ -313,6 +314,12 @@
     <Content Include="images\rbr\flag-italy.jpg" />
     <Content Include="images\rbr\flag-japan.jpg" />
     <Content Include="images\rbr\flag-usa.jpg" />
+    <Content Include="images\rbr\sold-01.jpg" />
+    <Content Include="images\rbr\sold-02.jpg" />
+    <Content Include="images\rbr\sold-04.jpg" />
+    <Content Include="images\rbr\sold-05.jpg" />
+    <Content Include="images\rbr\sold-11.jpg" />
+    <Content Include="images\rbr\sold.jpg" />
     <Content Include="images\rbr\weldon-logo.png" />
     <Content Include="images\resources\who-we-are.jpg" />
     <Content Include="images\services\service-1-1.jpg" />
