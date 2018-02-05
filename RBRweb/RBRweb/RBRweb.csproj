@@ -193,14 +193,13 @@
     <Content Include="images\blog\blog-3-5.jpg" />
     <Content Include="images\blog\blog-3-6.jpg" />
     <Content Include="images\blog\img_widget_1.png" />
-    <Content Include="images\favico.png" />
+    <Content Include="favico.png" />
     <Content Include="images\icon\cursor.png" />
     <Content Include="images\icon\flag.png" />
     <Content Include="images\icon\iso_logo.png" />
     <Content Include="images\icon\maker1.png" />
     <Content Include="images\icon\preloader.png" />
     <Content Include="images\icon\signature.png" />
-    <Content Include="images\logo-light.png" />
     <Content Include="images\main-slider\6-slide1.jpg" />
     <Content Include="images\main-slider\6-slide2.jpg" />
     <Content Include="images\main-slider\6-slide3.jpg" />
