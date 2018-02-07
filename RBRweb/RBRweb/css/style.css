@@ -289,7 +289,7 @@ body {
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
-    background: #ccc;
+    background: #ddd;
     word-wrap: break-word;
     overflow-x: hidden;
 }
@@ -1150,6 +1150,7 @@ div.aligncenter,
 
 .site-logo .show-logo {
     display: inline-block;
+    max-height: 70px;
 }
 
 .topbar {
@@ -1431,6 +1432,7 @@ div.aligncenter,
     margin: 0;
     padding-bottom: 0;
     border: none;
+    margin-top:-110px;
     
 }
 
@@ -1442,23 +1444,19 @@ div.aligncenter,
 }
 
 .page-header .header-title {
-    padding: 90px 0;
     text-align: center;
-    -webkit-background-size: cover;
     background-size: cover;
 }
 
-/* .page-header .header-title h1 {
-    color: #fff;
-    font-size: 60px;
-}*/
-
 .page-header .header-title.blog-title h1 {
     font-size: 70px;
+    line-height:1;
   font-weight: 400;
     text-transform:uppercase;
     color:#f71414;
+    padding-top:100px;
 }
+
 
 .page-header .breadcrumb-area {
     background-color: #f7f7f7;
@@ -3496,8 +3494,8 @@ div.aligncenter,
 }
 
 .site-content {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 
 .page-homepage .site-content,
