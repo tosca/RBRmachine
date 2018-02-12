@@ -311,6 +311,9 @@
     <Content Include="images\rbr\custom-09.jpg" />
     <Content Include="images\rbr\custom-10.jpg" />
     <Content Include="images\rbr\custom-11.jpg" />
+    <Content Include="images\rbr\flag-china.jpg" />
+    <Content Include="images\rbr\flag-czech.jpg" />
+    <Content Include="images\rbr\flag-taiwan.jpg" />
     <Content Include="images\rbr\fortune-logo.png" />
     <Content Include="images\rbr\fryer-logo.png" />
     <Content Include="images\rbr\intermoto-logo.png" />
@@ -380,6 +383,7 @@
     <Content Include="images\thumb\f-7.jpg" />
     <Content Include="images\thumb\f-8.jpg" />
     <Content Include="images\thumb\f-9.jpg" />
+    <Content Include="index-copy.html" />
     <Content Include="index.html" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\frontend.js" />
