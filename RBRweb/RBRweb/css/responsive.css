@@ -6,6 +6,7 @@ Media Queries
     .main-nav ul.menu {
         padding-left: 0;
     }
+
 }
 
 @media (max-width: 1366px) {

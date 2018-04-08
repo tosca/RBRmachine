@@ -387,6 +387,7 @@
     <Content Include="index.html" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\frontend.js" />
+    <Content Include="js\gdrive.js" />
     <Content Include="js\gmap.js" />
     <Content Include="js\isotope.pkgd.min.js" />
     <Content Include="js\jquery-1.12.4.min.js" />
@@ -415,7 +416,7 @@
     <Content Include="js\scripts.min.js" />
     <Content Include="js\switcher.js" />
     <Content Include="js\validate.js" />
-    <Content Include="test.html" />
+    <Content Include="moreinfo.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
