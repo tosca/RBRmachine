@@ -1448,15 +1448,16 @@ div.aligncenter,
     background-size: cover;
 }
 
-.page-header .header-title.blog-title h1 {
-    font-size: 70px;
-    line-height:1;
-  font-weight: 600;
-    text-transform:uppercase;
-    color:#f71414;
-    padding-top:140px;
-    
-}
+    .page-header .header-title.blog-title h1 {
+        font-size: 70px;
+        line-height: 1;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: #f71414;
+        padding-top: 140px;
+        text-shadow: #fff 1px 0 10px;
+        text-shadow: #fff 1px 0 2px;
+    }
 
 
 .page-header .breadcrumb-area {
