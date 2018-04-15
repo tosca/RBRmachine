@@ -1741,7 +1741,7 @@ div.aligncenter,
 
  .header-v3 .header-main,
 .home-header-v3 .header-main {
-    padding: 0px 30px 23px 30px;                    
+  /* padding: 0px 30px 23px 30px;*/                     
     background-color: none;                            
 }
 @media (min-width: 1200px) {
@@ -1752,7 +1752,7 @@ div.aligncenter,
 
 @media (max-width: 1024px) {
     .header-v3 .header-main, .home-header-v3 .header-main {
-        padding: 0px 30px 23px 20px;
+      /* padding: 0px 30px 23px 20px;*/ 
         background-color: none;
     }
 }
