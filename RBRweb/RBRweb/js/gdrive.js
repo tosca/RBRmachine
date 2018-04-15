@@ -6,5 +6,5 @@ var templateUrl = "https://drive.google.com/embeddedfolderview?id={googleFolderI
 var url = templateUrl.replace("{googleFolderId}", id);
 
 console.log(url);
-$('#myDiv').text(url);
+
 $('#myIframe').attr('src', url);                                       
