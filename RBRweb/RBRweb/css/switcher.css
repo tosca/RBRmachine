@@ -37,25 +37,27 @@
 }
 
 
-.demo_changer .demo-icon{
-    /*background: url(../img/switcher/color.png) no-repeat scroll 4px 0 #fff;*/
-    /*box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);*/
-    cursor: pointer;
-    position: absolute;
-    right: -43px;
-    top: 0;
-    height: 49px;
-    width: 43px;
-    text-align: right;
-    line-height: 49px;
-    background-color: #f71414;
-    font-size: 24px;
-    color: #272727;
-    z-index:  9999;
-    padding-right: 10px;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-}
+    .demo_changer .demo-icon {
+        background: url(../img/switcher/color.png) no-repeat scroll 4px 0 #fff;
+        box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+        cursor: pointer;
+        position: absolute;
+        right: -43px;
+        top: 0;
+        right: 50%;
+        top: 50%;
+        height: 49px;
+        width: 43px;
+        text-align: right;
+        line-height: 49px;
+        background-color: #f71414;
+        font-size: 24px;
+        color: #272727;
+        z-index: 9999;
+        padding-right: 100px;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
 
 .demo_changer .form_holder {
 	background: #272727;

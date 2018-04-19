@@ -687,17 +687,17 @@
 }*/
 
 .fp-icon-box {
-    font-size: 16px;
-    padding: 25px 30px 25px 78px;
+    font-size: 18px;
+    padding: 25px 30px 25px 40px;
     margin-bottom: 30px;
     background-color: #f7f7f7;
     border: 2px solid #bfbfbf;
     position: relative;
     transition: 0.5s;
-    height: 400px;
+    height: 380px;
 }
 
-.fp-icon-box .fp-icon {
+/*.fp-icon-box .fp-icon {
     font-size: 24px;
     color: #f71414;
     width: 60px;
@@ -711,7 +711,7 @@
     transform: translateY(-50%);
     background-color: #f7f7f7;
     transition: 0.5s;
-}
+}*/
 
 .fp-icon-box h4 {
     font-size: 20px;
