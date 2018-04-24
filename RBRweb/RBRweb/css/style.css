@@ -5830,7 +5830,7 @@ body.boxed {
     background-color: #f7f7f7;
     transition: 0.5s;
 }*/
-    .fp-icon-box {
+.fp-icon-box {
     font-size: 16px;
     padding: 25px 30px 25px 30px;
     margin-bottom: 30px;
@@ -5840,6 +5840,7 @@ body.boxed {
     transition: 0.5s;
     display: block;
     height: auto;
+    min-height: 260px;
 }
     /*.fp-icon-box .fp-icon {
     font-size: 24px;
@@ -5984,7 +5985,7 @@ body.boxed {
     margin-right: 40px;
     margin-bottom: 30px;
 }
-.fp-icon-box {
+/*.fp-icon-box {
     font-size: 16px;
     padding: 25px 30px 25px 30px;
     margin-bottom: 30px;
@@ -5995,7 +5996,7 @@ body.boxed {
     display: block;
     height: auto;
     min-height: 240px;
-}
+}*/
 .fp-icon-box .tool-info{
 
 }
