@@ -231,6 +231,8 @@
     <Content Include="images\projects\project-3-8.jpg" />
     <Content Include="images\projects\project-3-9.jpg" />
     <Content Include="images\rbr-logo-01.png" />
+    <Content Include="images\rbr-logo-link.jpg" />
+    <Content Include="images\rbr-logo-tag.png" />
     <Content Include="images\rbr\accut.png" />
     <Content Include="images\rbr\AEP-logo.png" />
     <Content Include="images\rbr\cams-logo.png" />
@@ -253,6 +255,7 @@
     <Content Include="images\rbr\newton-logo.png" />
     <Content Include="images\rbr\niles-simmons-logo.png" />
     <Content Include="images\rbr\pratic-logo.png" />
+    <Content Include="images\rbr\rbr-biz-crd.png" />
     <Content Include="images\rbr\rbr-sm.png" />
     <Content Include="images\rbr\rbrsold-02.jpg" />
     <Content Include="images\rbr\rbrsold-03.jpg" />

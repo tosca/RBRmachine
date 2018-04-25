@@ -1845,6 +1845,7 @@ div.aligncenter,
 .header-v3 .page-header .header-title,
 .home-header-v3 .page-header .header-title {
     padding-top: 154px;
+    padding-top: 90px;
 }
 
 .header-v4 .site-header,
@@ -5163,15 +5164,20 @@ div.aligncenter,
     .footer-widgets .widget {
         margin-bottom: 0;
         margin-top: 40px;
+        margin-left: 50px;
     }
 
-    .footer-widgets .widget-title {
-        font-size: 24px;
-        font-weight: 700;
-        color: #fff;
-        padding-bottom: 24px;
-        margin-bottom: 30px;
-    }
+.footer-widgets img{
+margin-top: 40px;
+}
+
+.footer-widgets .widget-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    padding-bottom: 24px;
+    margin-bottom: 30px;
+}
 
         .footer-widgets .widget-title a {
             color: #fff;
@@ -6103,6 +6109,11 @@ body.boxed {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }*/
+
+.footer-widgets img {
+    
+  
+}
 a {
     color: #f71414;
 }
