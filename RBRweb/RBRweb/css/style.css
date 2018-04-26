@@ -439,7 +439,18 @@ blockquote {
     padding: 20px 0 20px 20px;
     margin-bottom: 30px;
     margin-top: 30px;
+    margin: 30px 0 90px;
+    padding: 20px 75px;
+    background-color: #f7f7f7;
+    border-left: 3px solid #f71414;
+    position: relative;
 }
+.notes blockquote {
+    font-size: 14px;
+    font-style:normal;
+    padding: 20px 20px 
+}
+
 
 .graybg {
     background: #f8f8f8;
@@ -4561,17 +4572,17 @@ div.aligncenter,
     display: none;
 }
 
-.single-service blockquote {
+/*.single-service blockquote {
     padding: 20px 75px;
     background-color: #f7f7f7;
     border-left: 1px solid #f71414;
     position: relative;
-}
+}*/
 
     .single-service blockquote:before {
         content: '';
         position: absolute;
-        width: 1px;
+        width: 3px;
         height: 92%;
         left: 3px;
         top: 0;
@@ -5157,14 +5168,15 @@ div.aligncenter,
 
 .footer-widgets {
     color: #c8c8c8;
-    padding-top: 60px;
+    color: #9e9e9e;
+    padding-top: 20px;
     padding-bottom: 45px;
 }
 
     .footer-widgets .widget {
         margin-bottom: 0;
         margin-top: 40px;
-        margin-left: 50px;
+       /* margin-left: 50px;*/
     }
 
 .footer-widgets img{
@@ -5175,7 +5187,6 @@ margin-top: 40px;
     font-size: 24px;
     font-weight: 700;
     color: #fff;
-    padding-bottom: 24px;
     margin-bottom: 30px;
 }
 
@@ -5698,8 +5709,8 @@ body.boxed {
 }
 
 .footer-widgets {
-    background-color: #002A52;
-    background-image: url(http://demo2.steelthemes.com/factoryplus/wp-content/uploads/sites/4/2016/10/background.png);
+    background-color: #000000;
+   
 }
 
 .footer-v2 .footer-widgets {
@@ -6121,4 +6132,10 @@ a {
 
 a:hover {
     color: #337ab7;
+}
+
+@media print {
+    #topbar, #contact, .flag, #colophon{
+        display: none;
+    }
 }
