@@ -975,7 +975,7 @@ Media Queries
 
 @media (max-width: 600px) {
     .topbar .widget {
-        margin-bottom: 10px;
+        margin-bottom: 0px;
     }
     .header-sticky.admin-bar .site-header.minimizing {
         top: 0;

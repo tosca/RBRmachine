@@ -344,6 +344,8 @@
     <Content Include="js\switcher.js" />
     <Content Include="js\validate.js" />
     <Content Include="moreinfo.html" />
+    <Content Include="preloader.png" />
+    <Content Include="rbr-logo-link.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
