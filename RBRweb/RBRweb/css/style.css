@@ -1,4 +1,3 @@
-/*  FactoryPlus - Industry, Factory, Engineering & All Industrial Business HTML Theme */
 
 
 /************ TABLE OF CONTENTS ***************
@@ -23,9 +22,8 @@
 18.Footer
 19.Boxed body
 20.Carousel
-21.Cart Page
-22.Checkout Page
-23.Login Register
+
+
 
 **********************************************/
 
@@ -2911,7 +2909,7 @@ div.aligncenter,
     }
 
     .project blockquote:after {
-        content: '\e914';
+       /*content: '\e914';*/ 
         font-family: 'factoryplus';
         position: absolute;
         top: 22px;
@@ -3344,7 +3342,7 @@ div.aligncenter,
     }
 
     .single-service blockquote:after {
-        content: '\e914';
+      /*  content: '\e914';*/
         font-family: 'factoryplus';
         position: absolute;
         top: 22px;
@@ -3416,16 +3414,37 @@ div.aligncenter,
     transition: 0.5s;
     z-index: 9999;
 }
-
-    .backtotop .fa {
+.backtoindex {
+    display: inline-block;
+    position: fixed;
+    top: 60px;
+    left: 60px;
+    width: 60px;
+    height: 60px;
+    line-height: 50px;
+    text-align: center;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    border: 3px solid #f71414;
+    color: #f71414;
+    font-size: 30px;
+    background-color: #160f09;
+    opacity: 0;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    z-index: 9999;
+}
+    
+    
+    .backtotop .fa, .backtoindex .fa {
         color: #f71414;
     }
 
-    .backtotop:hover {
+    .backtotop:hover, .backtoindex:hover {
         color: #f71414;
     }
 
-        .backtotop:hover .fa {
+        .backtotop:hover .fa, .backtoindex:hover .fa {
             color: #f71414;
         }
 
@@ -3434,205 +3453,6 @@ div.aligncenter,
     }
 
 
-/*** 
-
-====================================================================
-	Comments Style
-====================================================================
-
- ***/
-
-/*** 
-
-====================================================================
-	Sidebar Services
-====================================================================
-
- ***/
-
-.service-sidebar .services-menu-widget li {
-    margin-bottom: 5px;
-    border: 0;
-    background-color: #f7f7f7;
-    padding: 15px 30px;
-    position: relative;
-    -webkit-transition: 0.5s;
-    transition: 0.5s;
-}
-
-    .service-sidebar .services-menu-widget li:before {
-        content: '';
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        top: auto;
-        width: 0;
-        height: 0;
-        border-left: 9px solid #272727;
-        border-right: 9px solid transparent;
-        border-bottom: 9px solid #272727;
-        border-top: 9px solid transparent;
-        opacity: 0;
-        -webkit-transition: 0.5s;
-        transition: 0.5s;
-    }
-
-    .service-sidebar .services-menu-widget li:after {
-        display: none;
-    }
-
-    .service-sidebar .services-menu-widget li a {
-        display: block;
-        color: #272727;
-        font-family: 'Montserrat', sans-serif;
-        font-size: 16px;
-        padding-left: 0;
-        position: relative;
-        -webkit-transition: 0.5s;
-        transition: 0.5s;
-    }
-
-        .service-sidebar .services-menu-widget li a:after {
-            content: '\f0da';
-            color: #fff;
-            position: absolute;
-            top: 50%;
-            right: -10px;
-            -webkit-transform: translateY(-50%);
-            -ms-transform: translateY(-50%);
-            transform: translateY(-50%);
-            font-size: 18px;
-            font-family: FontAweSome;
-            opacity: 0;
-            -webkit-transition: 0.5s;
-            transition: 0.5s;
-        }
-
-        .service-sidebar .services-menu-widget li a:before {
-            display: none;
-        }
-
-    .service-sidebar .services-menu-widget li:hover,
-    .service-sidebar .services-menu-widget li.current-menu-item {
-        background-color: #f71414;
-    }
-
-        .service-sidebar .services-menu-widget li:hover:before,
-        .service-sidebar .services-menu-widget li.current-menu-item:before {
-            opacity: 1;
-        }
-
-        .service-sidebar .services-menu-widget li:hover a,
-        .service-sidebar .services-menu-widget li.current-menu-item a {
-            color: #fff;
-        }
-
-            .service-sidebar .services-menu-widget li:hover a:after,
-            .service-sidebar .services-menu-widget li.current-menu-item a:after {
-                opacity: 1;
-            }
-
-.service-sidebar .download .item-download {
-    padding: 10px;
-    color: #272727;
-    font-family: 'Montserrat', sans-serif;
-    background-color: #f7f7f7;
-    margin-bottom: 5px;
-    position: relative;
-    -webkit-transition: 0.5s;
-    transition: 0.5s;
-}
-
-    .service-sidebar .download .item-download .fa {
-        color: #272727;
-        position: absolute;
-        font-size: 16px;
-        top: 50%;
-        right: 15px;
-        -webkit-transform: translateY(-50%);
-        -ms-transform: translateY(-50%);
-        transform: translateY(-50%);
-        -webkit-transition: 0.5s;
-        transition: 0.5s;
-    }
-
-    .service-sidebar .download .item-download span {
-        display: inline-block;
-        font-size: 14px;
-        font-weight: 700;
-        text-transform: uppercase;
-        color: #fff;
-        font-family: 'Lato', Arial, sans-serif;
-        background-color: #f71414;
-        padding: 5px;
-        margin-right: 15px;
-        -webkit-transition: 0.5s;
-        transition: 0.5s;
-    }
-
-    .service-sidebar .download .item-download:hover {
-        background-color: #f71414;
-    }
-
-        .service-sidebar .download .item-download:hover a,
-        .service-sidebar .download .item-download:hover .fa {
-            color: #fff;
-        }
-
-        .service-sidebar .download .item-download:hover span {
-            background-color: #fff;
-            color: #f71414;
-        }
-
-.service-sidebar .business {
-    padding: 20px;
-    background-color: #f7f7f7;
-}
-
-    .service-sidebar .business .information {
-        border-bottom: 1px solid #eaeaea;
-        padding: 20px 0;
-    }
-
-        .service-sidebar .business .information:first-child {
-            padding-top: 0;
-        }
-
-    .service-sidebar .business h3 {
-        font-size: 16px;
-        font-weight: 400;
-        margin-bottom: 10px;
-        margin-top: 0;
-    }
-
-    .service-sidebar .business img {
-        float: left;
-    }
-
-    .service-sidebar .business span {
-        font-size: 14px;
-        display: block;
-        margin-left: 80px;
-        line-height: 1;
-        margin-bottom: 10px;
-    }
-
-        .service-sidebar .business span .fa {
-            color: #f71414;
-            font-size: 14px;
-            padding-right: 5px;
-            float: left;
-        }
-
-        .service-sidebar .business span.name {
-            font-size: 16px;
-            color: #f71414;
-            font-weight: 700;
-        }
-
-        .service-sidebar .business span.email {
-            margin-bottom: 0;
-        }
 
 .factoryplus-social-links-widget a {
     color: #fff;
@@ -3942,72 +3762,7 @@ margin-top: 40px;
     display: none;
 }
 
-.header-v6 .footer-widgets,
-.home-header-v6 .footer-widgets {
-    padding-top: 0;
-    padding-bottom: 0;
-    background: #0c2e3b;
-}
 
-.home-header-v6 .site-footer {
-    background: #103746;
-}
-
-.header-v6 .footer-widgets .widget-title:before,
-.home-header-v6 .footer-widgets .widget-title:before {
-    background-color: #0c2e3b;
-}
-
-.header-v6 .footer-widgets .fp-form-field .subscribe input[type="email"],
-.home-header-v6 .footer-widgets .fp-form-field .subscribe input[type="email"] {
-    border: 1px solid #f71414;
-    background-color: transparent;
-}
-
-.header-v6 .footer-sidebars,
-.home-header-v6 .footer-sidebars {
-    padding-top: 60px;
-    padding-bottom: 45px;
-}
-
-.header-v6 .contact-widget,
-.home-header-v6 .contact-widget {
-    padding-top: 55px;
-    padding-bottom: 45px;
-    background-color: #f71414;
-}
-
-    .header-v6 .contact-widget .footer-contact,
-    .home-header-v6 .contact-widget .footer-contact {
-        border-bottom: none;
-        padding-bottom: 0;
-        margin-bottom: 0;
-    }
-
-        .header-v6 .contact-widget .footer-contact p,
-        .home-header-v6 .contact-widget .footer-contact p {
-            color: #fff;
-        }
-
-        .header-v6 .contact-widget .footer-contact h4,
-        .home-header-v6 .contact-widget .footer-contact h4,
-        .header-v6 .contact-widget .footer-contact i,
-        .home-header-v6 .contact-widget .footer-contact i {
-            color: #272727;
-        }
-
-        .header-v6 .contact-widget .footer-contact img.logo-footer,
-        .home-header-v6 .contact-widget .footer-contact img.logo-footer {
-            display: none;
-        }
-
-        .header-v6 .contact-widget .footer-contact img.logo-hp6,
-        .home-header-v6 .contact-widget .footer-contact img.logo-hp6 {
-            display: block;
-        }
-
-.header-v7 .fp-form-field .subscribe input[type="email"],
-.header-v8 .fp-form-field .subscribe input[type="email"],
 .header-v9 .fp-form-field .subscribe input[type="email"],
 .home-header-v7 .fp-form-field .subscribe input[type="email"],
 .home-header-v8 .fp-form-field .subscribe input[type="email"],
@@ -4032,15 +3787,6 @@ margin-top: 40px;
     border-top: 1px solid rgba(255, 255, 255, 0.05);
 }
 
-
-/*** 
-
-====================================================================
-	Boxed body
-====================================================================
-
- ***/
-
 /*** 
 
 ====================================================================
@@ -4062,51 +3808,6 @@ margin-top: 40px;
     background-image: url(http://demo2.steelthemes.com/factoryplus/wp-content/uploads/sites/4/2016/12/8-footer-bg.jpg);
 }
 
-.header-v7 .main-nav ul.menu li.menu-item-button-link a {
-    padding-bottom: 1px;
-}
-
-.home-header-v7 .main-nav ul.menu li.menu-item-button-link a {
-    padding-bottom: 1px;
-}
-
-.header-v8 .main-nav ul.menu li.menu-item-button-link a {
-    padding-bottom: 1px;
-}
-
-.home-header-v8 .main-nav ul.menu li.menu-item-button-link a {
-    padding-bottom: 1px;
-}
-
-.header-v8 .topbar .topbar-right .widget_search {
-    display: none;
-}
-
-.home-header-v8 .topbar .topbar-right .widget_search {
-    display: none;
-}
-
-.header-v8 .topbar .topbar-right .widget_text {
-    padding-right: 0;
-}
-
-.home-header-v8 .topbar .topbar-right .widget_text {
-    padding-right: 0;
-}
-
-.header-v8 div.fp-service-3 a:hover {
-    background-color: #f71414;
-}
-
-.home-header-v8 div.fp-service-3 a:hover {
-    background-color: #f71414;
-}
-
-.header-v8 .main-nav .menu-item-button-link,
-.home-header-v8 .main-nav .menu-item-button-link {
-    border-top: 1px solid transparent;
-    border-bottom: 1px solid transparent;
-}
 
 .main-nav .menu-item-text p {
     margin-bottom: 0;
