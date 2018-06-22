@@ -404,14 +404,14 @@ textarea {
 }
 
 blockquote {
-    font-size: 18px;
+    font-size: 16px;
    /* font-style: italic;*/
     border-left: 3px solid #f71414;
     padding: 20px 0 20px 20px;
     margin-bottom: 30px;
     margin-top: 30px;
-    margin: 30px 0 90px;
-    padding: 20px 75px;
+   /* margin: 30px 0 90px;*/
+    padding: 30px 30px;
     background-color: #f7f7f7;
     border-left: 3px solid #f71414;
     position: relative;
@@ -2951,7 +2951,7 @@ div.aligncenter,
     font-weight: 700;
     text-transform: uppercase;
     margin-top: 0;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     padding-bottom: 15px;
     line-height: 1;
     position: relative;
@@ -3879,6 +3879,10 @@ margin-top: 40px;
     display: block;
     height: auto;
     min-height: 260px;
+}
+
+.bg-black {
+    background-color: #43495b;
 }
     .fp-icon-box .clogo{
         background-color: #fff;

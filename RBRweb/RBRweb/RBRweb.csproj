@@ -154,6 +154,7 @@
     <Content Include="fonts\revicons\revicons.svg" />
     <Content Include="favicon.png" />
     <Content Include="images\arrow-left.png" />
+    <Content Include="images\IMTS-chicago.png" />
     <Content Include="images\rbr-logo-moreinfo.png" />
     <Content Include="images\rbr-logo-01.png" />
     <Content Include="images\rbr-logo-link.jpg" />
