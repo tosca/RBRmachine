@@ -2363,7 +2363,6 @@ div.aligncenter,
 
 .fp-related-project {
     position: relative;
-    margin-top: 50px;
 }
 
     .fp-related-project .item-related {
@@ -3162,20 +3161,22 @@ margin-top: 40px;
 
 .fp-icon-box {
     font-size: 16px;
-    padding: 20px 20px 20px 20px;
+    padding: 20px;
     margin-bottom: 30px;
-    border: 3px solid #bfbfbf;
-    border: 6px groove #bfbfbf;
+    border: 8px groove #bfbfbf;
+    border-color:#bfbfbf;
     position: relative;
     transition: 0.5s;
     display: block;
     height: auto;
-  /*  min-height: 260px;*/
 }
-
-.bg-black {
-    background-color: #43495b;
-}
+    .fp-icon-box h4{
+        font-weight: 700;
+    }
+    
+    .bg-black {
+        background-color: #43495b;
+    }
     .fp-icon-box .clogo{
         background-color: #fff;
     }
@@ -3220,11 +3221,11 @@ margin-top: 40px;
 
 .fp-icon-box-5 {
     font-size: 16px;
-    padding: 25px 30px 25px 30px;
-    margin: 50px;
+    padding: 25px 30px;
     background-color: #fff;
-    border: 20px ridge #bfbfbf;
-    position: relative;
+    border: 16px ridge #bfbfbf;
+     border-color: #bfbfbf;
+     position: relative;
     transition: 0.5s;
     display: block;
     height: auto;
@@ -3244,7 +3245,7 @@ margin-top: 40px;
 }
 
 .fp-icon-box-5 h3 {
-    font-size: 24px;
+    font-size: 22px;
     margin-top: 15px;
     text-transform: uppercase;
     margin-left: 10px;

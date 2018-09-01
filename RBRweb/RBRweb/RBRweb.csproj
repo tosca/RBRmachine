@@ -59,6 +59,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="apple-touch-icon-114x114.png" />
+    <Content Include="apple-touch-icon-57x57.jpg" />
+    <Content Include="apple-touch-icon-57x57.png" />
+    <Content Include="apple-touch-icon-72x72.png" />
     <Content Include="fonts\factoryplus.ttf" />
     <Content Include="fonts\Flaticon.woff" />
     <Content Include="fonts\fontawesome-webfont.eot" />
