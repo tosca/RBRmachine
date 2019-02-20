@@ -159,6 +159,9 @@
     <Content Include="favicon.png" />
     <Content Include="images\arrow-left.png" />
     <Content Include="images\IMTS-chicago.png" />
+    <Content Include="images\rbr\aceMicromatic.png" />
+    <Content Include="images\rbr\amm.png" />
+    <Content Include="images\rbr\grind-master.png" />
     <Content Include="images\rbr\leader-logo.png" />
     <Content Include="images\rbr\lymco-logo.png" />
     <Content Include="images\rbr-logo-moreinfo.png" />
@@ -184,6 +187,8 @@
     <Content Include="images\rbr\maple-logo.png" />
     <Content Include="images\rbr\mariocarnaghi.png" />
     <Content Include="images\rbr\mcm-logo.png" />
+    <Content Include="images\rbr\micromatic.png" />
+    <Content Include="images\rbr\micromaticGrinding.png" />
     <Content Include="images\rbr\msmsi.jpg" />
     <Content Include="images\rbr\newton-logo.png" />
     <Content Include="images\rbr\niles-simmons-logo.png" />
@@ -200,6 +205,7 @@
     <Content Include="images\rbr\flag-usa.jpg" />
     <Content Include="images\rbr\sumig-logo.png" />
     <Content Include="images\rbr\tostrade-logo.png" />
+    <Content Include="images\rbr\toyota.png" />
     <Content Include="images\rbr\viper-logo.png" />
     <Content Include="images\rbr\weldon-logo.png" />
     <Content Include="index.html" />

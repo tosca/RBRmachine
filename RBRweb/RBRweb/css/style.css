@@ -516,7 +516,9 @@ blue {
 .padlft7 {
     padding-left: 7px;
 }
-
+.padtop20{
+    padding-top: 20px;
+}
 .margleft9 {
     margin-left: 9px;
 }
@@ -2332,7 +2334,7 @@ div.aligncenter,
     font-size: 24px;
     font-weight: 700;
     text-transform: uppercase;
-    margin-top: 0;
+    margin-top: 30px;
     margin-bottom: 30px;
     padding-bottom: 15px;
     line-height: 1;
